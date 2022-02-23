@@ -1,1 +1,1 @@
-# Comp-Labs
+# Comp Labs
