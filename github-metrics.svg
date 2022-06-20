@@ -554,24 +554,23 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="103" y2="103" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="81" y2="81" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="59" y2="59" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="37" y2="37" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,34.8C39.5,41.4,49,48.388,58.5,54.6C68,60.812,77.5,70.896,87,72.2C96.5,73.504,106,74.4,115.5,74.4C125,74.4,134.5,74.4,144,74.4C153.5,74.4,163,74.4,172.5,74.4C182,74.4,191.5,68.533,201,65.6L201,125Z" class="ct-area"/>
-                                            <path d="M30,34.8C39.5,41.4,49,48.388,58.5,54.6C68,60.812,77.5,70.896,87,72.2C96.5,73.504,106,74.4,115.5,74.4C125,74.4,134.5,74.4,144,74.4C153.5,74.4,163,74.4,172.5,74.4C182,74.4,191.5,68.533,201,65.6" class="ct-line"/>
-                                            <line x1="30" y1="34.8" x2="30.01" y2="34.8" class="ct-point" ct:value="41"/>
-                                            <line x1="58.5" y1="54.599999999999994" x2="58.51" y2="54.599999999999994" class="ct-point" ct:value="32"/>
-                                            <line x1="87" y1="72.2" x2="87.01" y2="72.2" class="ct-point" ct:value="24"/>
-                                            <line x1="115.5" y1="74.4" x2="115.51" y2="74.4" class="ct-point" ct:value="23"/>
-                                            <line x1="144" y1="74.4" x2="144.01" y2="74.4" class="ct-point" ct:value="23"/>
-                                            <line x1="172.5" y1="74.4" x2="172.51" y2="74.4" class="ct-point" ct:value="23"/>
-                                            <line x1="201" y1="65.6" x2="201.01" y2="65.6" class="ct-point" ct:value="27"/>
-                                        <text x="30" y="29.799999999999997" class="ct-post">41</text><text x="58.5" y="49.599999999999994" class="ct-post">32</text><text x="87" y="67.2" class="ct-post">24</text><text x="115.5" y="69.4" class="ct-post">23</text><text x="144" y="69.4" class="ct-post">23</text><text x="172.5" y="69.4" class="ct-post">23</text><text x="201" y="60.599999999999994" class="ct-post">27</text></g>
+                                            <path d="M30,125L30,15C39.5,21.417,49,27.031,58.5,34.25C68,41.469,77.5,57.35,87,59C96.5,60.65,106,61.75,115.5,61.75C125,61.75,134.5,61.75,144,61.75C153.5,61.75,163,61.75,172.5,61.75C182,61.75,191.5,54.417,201,50.75L201,125Z" class="ct-area"/>
+                                            <path d="M30,15C39.5,21.417,49,27.031,58.5,34.25C68,41.469,77.5,57.35,87,59C96.5,60.65,106,61.75,115.5,61.75C125,61.75,134.5,61.75,144,61.75C153.5,61.75,163,61.75,172.5,61.75C182,61.75,191.5,54.417,201,50.75" class="ct-line"/>
+                                            <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="40"/>
+                                            <line x1="58.5" y1="34.25" x2="58.51" y2="34.25" class="ct-point" ct:value="33"/>
+                                            <line x1="87" y1="59" x2="87.01" y2="59" class="ct-point" ct:value="24"/>
+                                            <line x1="115.5" y1="61.75" x2="115.51" y2="61.75" class="ct-point" ct:value="23"/>
+                                            <line x1="144" y1="61.75" x2="144.01" y2="61.75" class="ct-point" ct:value="23"/>
+                                            <line x1="172.5" y1="61.75" x2="172.51" y2="61.75" class="ct-point" ct:value="23"/>
+                                            <line x1="201" y1="50.75" x2="201.01" y2="50.75" class="ct-point" ct:value="27"/>
+                                        <text x="30" y="10" class="ct-post">40</text><text x="58.5" y="29.25" class="ct-post">33</text><text x="87" y="54" class="ct-post">24</text><text x="115.5" y="56.75" class="ct-post">23</text><text x="144" y="56.75" class="ct-post">23</text><text x="172.5" y="56.75" class="ct-post">23</text><text x="201" y="45.75" class="ct-post">27</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -866,6 +865,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5c0b104</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Comp-Labs/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7a10cc9</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -930,27 +950,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#b34204c</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Comp-Labs/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab6d088</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -1280,7 +1279,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 20 Jun 2022, 10:52:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 12:01:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
