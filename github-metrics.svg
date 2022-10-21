@@ -464,8 +464,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
-                                <text x="60" y="60" dominant-baseline="central">88</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="292.81 329"/>
+                                <text x="60" y="60" dominant-baseline="central">89</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -603,16 +603,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,67.25C39.5,60.833,49,48,58.5,48C68,48,77.5,72.75,87,72.75C96.5,72.75,106,72.75,115.5,72.75C125,72.75,134.5,26,144,26C153.5,26,163,44.15,172.5,50.75C182,57.35,191.5,61.75,201,67.25L201,125Z" class="ct-area"/>
-                                            <path d="M30,67.25C39.5,60.833,49,48,58.5,48C68,48,77.5,72.75,87,72.75C96.5,72.75,106,72.75,115.5,72.75C125,72.75,134.5,26,144,26C153.5,26,163,44.15,172.5,50.75C182,57.35,191.5,61.75,201,67.25" class="ct-line"/>
+                                            <path d="M30,125L30,67.25C39.5,60.833,49,48,58.5,48C68,48,77.5,72.75,87,72.75C96.5,72.75,106,72.75,115.5,72.75C125,72.75,134.5,28.75,144,28.75C153.5,28.75,163,41.583,172.5,48C182,54.417,191.5,60.833,201,67.25L201,125Z" class="ct-area"/>
+                                            <path d="M30,67.25C39.5,60.833,49,48,58.5,48C68,48,77.5,72.75,87,72.75C96.5,72.75,106,72.75,115.5,72.75C125,72.75,134.5,28.75,144,28.75C153.5,28.75,163,41.583,172.5,48C182,54.417,191.5,60.833,201,67.25" class="ct-line"/>
                                             <line x1="30" y1="67.25" x2="30.01" y2="67.25" class="ct-point" ct:value="21"/>
                                             <line x1="58.5" y1="48" x2="58.51" y2="48" class="ct-point" ct:value="28"/>
                                             <line x1="87" y1="72.75" x2="87.01" y2="72.75" class="ct-point" ct:value="19"/>
                                             <line x1="115.5" y1="72.75" x2="115.51" y2="72.75" class="ct-point" ct:value="19"/>
-                                            <line x1="144" y1="26" x2="144.01" y2="26" class="ct-point" ct:value="36"/>
-                                            <line x1="172.5" y1="50.75" x2="172.51" y2="50.75" class="ct-point" ct:value="27"/>
+                                            <line x1="144" y1="28.75" x2="144.01" y2="28.75" class="ct-point" ct:value="35"/>
+                                            <line x1="172.5" y1="48" x2="172.51" y2="48" class="ct-point" ct:value="28"/>
                                             <line x1="201" y1="67.25" x2="201.01" y2="67.25" class="ct-point" ct:value="21"/>
-                                        <text x="30" y="62.25" class="ct-post">21</text><text x="58.5" y="43" class="ct-post">28</text><text x="87" y="67.75" class="ct-post">19</text><text x="115.5" y="67.75" class="ct-post">19</text><text x="144" y="21" class="ct-post">36</text><text x="172.5" y="45.75" class="ct-post">27</text><text x="201" y="62.25" class="ct-post">21</text></g>
+                                        <text x="30" y="62.25" class="ct-post">21</text><text x="58.5" y="43" class="ct-post">28</text><text x="87" y="67.75" class="ct-post">19</text><text x="115.5" y="67.75" class="ct-post">19</text><text x="144" y="23.75" class="ct-post">35</text><text x="172.5" y="43" class="ct-post">28</text><text x="201" y="62.25" class="ct-post">21</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -907,6 +907,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4720ce4</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Comp-Labs/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1df40ba</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -971,27 +992,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#30be9b0</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Comp-Labs/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#41c013b</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -1404,7 +1404,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 21 Oct 2022, 11:23:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 12:14:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
