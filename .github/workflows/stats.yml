@@ -101,7 +101,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
-          plugin_skyline_year: 2022
+          plugin_skyline_year: 2023
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
